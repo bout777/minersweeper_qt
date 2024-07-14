@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/image/00.png</file>
+        <file>res/image/01.png</file>
+        <file>res/image/02.png</file>
+        <file>res/image/03.png</file>
+        <file>res/image/04.png</file>
+        <file>res/image/05.png</file>
+        <file>res/image/09.png</file>
+        <file>res/image/10.png</file>
+        <file>res/image/00011[92x92x8BPP].png</file>
+        <file>res/image/11.png</file>
+        <file>res/image/12.png</file>
+        <file>res/image/mine.png</file>
+        <file>res/image/mine_back.png</file>
+        <file>res/image/mine_flag.png</file>
+        <file>res/image/wrong_flag.png</file>
+        <file>res/image/06.png</file>
+        <file>res/image/07.png</file>
+        <file>res/image/08.png</file>
+        <file>res/image/mine_.png</file>
+        <file>res/image/timer.png</file>
+        <file>res/music/begin.wav</file>
+        <file>res/music/boom.wav</file>
+        <file>res/music/left_right.wav</file>
+        <file>res/music/spread.wav</file>
+    </qresource>
+</RCC>
